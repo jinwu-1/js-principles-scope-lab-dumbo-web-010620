@@ -9,9 +9,9 @@ function upperCaseCustomerName() {
 }
 
 function setBestCustomer() {
-  bestCustomer = 'not bob';
+  bestCustomer = 'not bob'
 }
 
 function overWriteBestCustomer() {
-  bestCustomer = 'something';
+  bestCustomer = 'something'
 }
