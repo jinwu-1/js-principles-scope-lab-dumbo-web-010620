@@ -2,6 +2,7 @@
 
 var customerName = 'bob';
 var bestCustomer;
+const leastFavoriteCustomer
 
 
 function upperCaseCustomerName() {
